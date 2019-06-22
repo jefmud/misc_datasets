@@ -1,0 +1,25 @@
+id,username,email,password,firstname,lastname,is_admin,joined_at
+1,admin,admin@local.net,$2b$12$ZGjzi9TCTmB0dapO19EWvuI3FgoV4r1DvotYVKFiyfj8t85212Y4W,,,1,2018-02-12 12:41:32.721000
+2,jeff,jefmud@gmail.com,$2b$12$LG0gMAPeQIPHyED0q99T.uxg0SWmIV3fE62XUqAaljbDti9ekD6zq,Jeff,Muday,0,2018-02-12 13:18:08.954000
+3,SharooTheRapper,ahmas16@wfu.edu,$2b$12$VBXFL4ZGt77JgT8EPYIkN.f6IWx1uVRXBTOj23N/VLc2v8SYzzIiy,Shardil,Ahmad,0,2018-02-12 14:04:22.340742
+4,Fiscbr15,fiscbr15@wfu.edu,$2b$12$MWAGU4T8zkl0jA6/UyR/PO.T8uwkRvNb6XRHGAqnKQun7wByWBp46,Ben,Fischer,0,2018-02-12 14:04:50.298647
+5,warmg16,wardmg16@wfu.edu,$2b$12$D4ujHYGFDUUx3BROxsoKIudMOLuRb5bRq2kUZNhEcBSw5Dc2Iacde,Madeleine,Ward,0,2018-02-12 14:04:50.927804
+6,spurcv16,spurcv16@wfu.edu,$2b$12$Zj0uTO7cMQw0Rl/ILfbCTe3.1lMEX4z2uMSOzPIo/umOdVQ3qFe7.,Caroline,Spurzem,0,2018-02-12 14:04:57.022894
+7,mjzappa14,zappmj14@wfu.edu,$2b$12$kmp0zMHHbCq/YUdJ73eUyekYzXgNxcxFfSXEVXhNvSNnHKzUBJrW6,Michael ,Zappa,0,2018-02-12 14:05:15.759155
+8,wynne,Wynnmt14@wfu.edu,$2b$12$ypiga0PAwxkZSiCF4FB8HONGRdIiw2uWsyX3JoNyhpUCzUeLirkOu,Michael,Wynne,0,2018-02-12 14:05:40.847505
+9,drugemalila,rugedm15@wfu.edu,$2b$12$lpaGMd/5CjSJztzqsQdKYusUx3RXrXaBm4oN1yw9URmYQLFWsAWMS,Deusdedith,Rugemalila,0,2018-02-12 14:05:55.723571
+10,anderstm,anderstm@wfu.edu,$2b$12$v.p61Bvl/Syke/6bIcKBr.sy5wzX4YNQ8Fl5.D8rJjn9VfbThVY7W,Michael,Anderson,0,2018-02-12 16:10:58.296730
+11,averageJackal,mark@figuresix.com,$2b$12$RbvIKTD47mt171PYlRnYMuyekgMifYc7rUhD0qxjF.0ytoPoLWL/C,Mark,Muday,1,2018-02-12 17:28:27
+12,rcorapi,corare15@wfu.edu,$2b$12$01l.4D0TgcMTRcXtMJfcDO6aJbvdkC2Rmw1PM3UaPkEY0KLl/6s2S,Robyn,Corapi,0,2018-02-13 11:18:30.092738
+13,the_blargen,eben.b.smith@gmail.com,$2b$12$9FvUZxCNXLS9HCiWCydqmumRcdZrGapK2pS3Bs7LQYWC//wVJ8P7G,Eben,Smith,0,2018-02-14 17:01:10.303392
+14,lanikm15,lanikm15@wfu.edu,$2b$12$bkQgJpzbxqUAG/PoPtMpvuRIMsMeKT42y5z5McVj9Lh6uh6ETIIky,Kristin,Lanier,0,2018-02-15 14:23:58.702756
+15,ashca16,ashca16@wfu.edu,$2b$12$TjJQJnaixM/WjFR8hN99R.mm9ltXH6ImeJBtWOwiuUEOFVqHdft5C,Andrew,Ashchi,0,2018-02-15 14:25:53.169387
+17,richie,hortcr16@wfu.edu,$2b$12$wrSjMYObuVbYFoE7ljkyveDS8CXPQm0LUkAcE8v4ZIALE1QGHQHO6,RIchie,Horton,0,2018-02-15 14:39:24
+18,mgjini,gjinm16@wfu.edu,$2b$12$DgW3wInrvqaaIsALfNP9k.NFPiHc10AUXbCKpeHro5WDqBv8XWsRa,Megi,Gjini,0,2018-02-16 13:48:30.002343
+20,shannon,shannon.mallison@gmail.com,$2b$12$1MKJAdG5Nf4UC4QzsoD2bO5bvwk9OnnScbHjhtvGx70bUe68q4jAi,Shannon,Mallison,0,2018-03-05 11:59:11.299916
+21,appieloosa,steva16@wfu.edu,$2b$12$Tc/1Ubl.3z4qd1oAQc.jgOtU.IF2bSD5b9KBdyX9LrjzCaNQ.L9Ji,Aspen,Stevanovski,0,2018-03-22 14:28:10.950574
+22,sammyidobelieveiammy,suttsr16@wful.edu,$2b$12$S5LSOaabEdUZo5fyfV8sBuyxhKdifLHJoZOldOPOckxSLa10wPZ5S,Samuel,Sutton,0,2018-04-03 15:02:18.365752
+23,sebomikulski,Sebomikulski@yahoo.com,$2b$12$PW6HarTVthlccqFK0MW8D.ihCy03/LGCBmi86WVraabn.EjhHkyW6,Sebastian,Mikulski,0,2018-07-09 11:55:59.213459
+24,griffithdan,griffith.dan@gmail.com,$2b$12$iXKEJkIWX15bFTvUPoMoOOgP7qo4ZSzXYRRGpVOD89SCX/RiArEj6,Daniel,Griffith,0,2018-09-05 17:12:43.922243
+25,vienna,jeff@mudaylab.org,$2b$12$9pJNIqErFSZ.ggYhJMVL.uZb7P9DAS53jV//1Ot8Vc.0.Ezx.erIK,Vienna,School,0,2019-03-31 19:51:06
+26,gizmonicus,tomlinwa@wfu.edu,$2b$12$b54XhKVJkN3GYj5QK7KHwuRAUnp3TrznhDDyCzFCyyXVaMGE2GcRa,Will,Tomlinson,0,2019-06-10 11:08:09.276173
